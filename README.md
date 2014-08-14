@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first repository
+Diving deeper into the open source software world!
